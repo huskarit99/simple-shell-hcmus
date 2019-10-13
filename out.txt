@@ -1,0 +1,6 @@
+total 108
+-rw-rw-r-- 1 dell dell 68594 Thg 10 10 21:53 Description_file.pdf
+-rw------- 1 dell dell     0 Thg 10 10 22:39 out.txt
+-rw-rw-r-- 1 dell dell  1770 Thg 10 10 22:24 Readme.md
+-rwxr-xr-x 1 dell dell 21880 Thg 10 10 22:38 simple_shell
+-rw-rw-r-- 1 dell dell  8399 Thg 10 10 22:38 simple_shell.c
